@@ -1,0 +1,21 @@
+{	
+	"name": "bot",
+	"version": "0.0.1",
+	
+	"main": "index.js",
+	"scripts": {
+	"start": "node index.js"
+	},
+	"dependencies": {
+	"11": "0.0.1",
+	"discord-economy": "^1.2.2",
+	"discord.js": "^12.5.1",
+	"lowdb": "^1.0.0",
+	"ms": "^2.1.2",
+	"sequelize": "^6.5.1",
+	"sqlite3": "^5.0.2"
+	},
+	"devDependencies": {},
+	"author": "",
+	"license": "ISC"
+	}

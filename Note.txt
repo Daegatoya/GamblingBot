@@ -1,0 +1,10 @@
+Take note that any GitHub host (such as deroku)
+will not be able to handle this code. 
+The reason why is because there is a 
+huge encrypted database in SQLite that 
+makes the bot respond above the max 
+tick rate supported by those kind of 
+host. The best option would be to host 
+it on a different website such as glitch.com 
+or repl.it and send an automatic ping 
+every laps of 5 minutes to keep it alive.

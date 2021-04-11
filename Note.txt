@@ -6,5 +6,5 @@ makes the bot respond above the max
 tick rate supported by those kind of 
 host. The best option would be to host 
 it on a different website such as glitch.com 
-or repl.it and send an automatic ping 
+or replit.com and send an automatic ping 
 every laps of 5 minutes to keep it alive.

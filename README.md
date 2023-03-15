@@ -3,7 +3,7 @@ A quick gambling bot I had fun to make using the npm module discord-economy and 
 
 ---
 
-**With love, Elizabeth** ❤️
+**With love, Daegatoya** ❤️
          
 <p align="center">
 
